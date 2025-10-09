@@ -8,7 +8,7 @@
 
 
 
-This repository implements a **Text-to-Video generation model** using a **Hierarchical Reasoning Module (HRM)** optimized for T4 GPUs. The model leverages transformer-based architectures with rotary positional embeddings, SwiGLU feed-forward networks, and 3D CNNs for video tokenization/detokenization. It is trained on the FineVideo dataset and supports checkpointing to Hugging Face.
+This repository implements a **Text-to-Video generation model** using a **Hierarchical Reasoning Model (HRM)** optimized for T4 GPUs. The model leverages transformer-based architectures with rotary positional embeddings, SwiGLU feed-forward networks, and 3D CNNs for video tokenization/detokenization. It is trained on the FineVideo dataset and supports checkpointing to Hugging Face.
 
 ## Key Features
 - **Modular Design**: Code is split into logical modules for models, data handling, utilities, and training/testing scripts.
