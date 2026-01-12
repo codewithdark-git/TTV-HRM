@@ -48,8 +48,8 @@ ttv-hrm/
 ## Installation
 1. **Clone the Repository**:
    ```
-   git clone <your-repo-url>
-   cd ttv-hrm
+   git clone https://github.com/codewithdark-git/TTV-HRM
+   cd TTV-HRM
    ```
 
 2. **Install Dependencies** (Python 3.10+):
